@@ -1,0 +1,54 @@
+ul{
+    list-style: none;
+}
+header{
+    background-color: rgb(204, 101, 101);
+}
+h1, a{
+    color: cornsilk;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+a{
+    text-decoration: none;
+}
+p, h2, h3{
+    background-color: rgb(223, 134, 134);
+}
+h2, h3{
+    display: flex;
+    justify-content: center;
+}
+*{
+    margin: 0;
+padding: 0;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+    height: 300px;
+}
+.box-info, .what-it{
+    padding: 20px;
+    background-color: rgb(223, 134, 134);
+}
+.fr, .sl{
+    font-size: 30px;
+}
+img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+a:hover{
+color: rgb(0, 0, 0);
+}
+.gallery-list{
+    display: flex;
+    flex-wrap: wrap;
+}
+.Dv{
+    font-size: medium;
+    color: cornsilk;
+}
